@@ -137,12 +137,3 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
----
-
-If you want, I can also:
-
-✅ Add screenshots section  
-✅ Add deployment guide (Netlify / Vercel)  
-✅ Add environment variables section  
-Just tell me!
