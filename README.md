@@ -1,6 +1,6 @@
 # Movelers
 
-A modern React-based web application built using **Create React App**.  
+A modern React-based web application built using **Create React App**.  Deployed Here https://movelers.netlify.app/
 This project includes responsive UI components, smooth scrolling, carousels, icons, and other interactive features.
 
 ---
@@ -60,8 +60,6 @@ Windows
 rmdir /s /q node_modules
 del package-lock.json
 npm install
-
-
 
 
 
@@ -137,3 +135,13 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 ## 📄 License
 
 This project is licensed under the **MIT License**.
+
+## 📸 Screenshots
+<img width="1897" height="928" alt="Screenshot 2025-12-24 at 3 36 56 PM" src="https://github.com/user-attachments/assets/84ec3737-b600-4743-bffe-01a09d08cdc6" />
+<img width="1897" height="790" alt="Screenshot 2025-12-24 at 3 37 29 PM" src="https://github.com/user-attachments/assets/1928e749-6769-4622-b1d9-cbb3fda6c9fb" />
+<img width="1897" height="546" alt="Screenshot 2025-12-24 at 3 37 55 PM" src="https://github.com/user-attachments/assets/ef312f84-fe9a-4fbf-9ed8-e19137745e10" />
+<img width="1897" height="661" alt="image" src="https://github.com/user-attachments/assets/68bb8a17-00cb-41c8-8ad9-87d5f14e3867" />
+<img width="1897" height="934" alt="Screenshot 2025-12-24 at 3 38 32 PM" src="https://github.com/user-attachments/assets/7ddbe66a-4b93-4325-a3f7-4272565ef95a" />
+
+
+
